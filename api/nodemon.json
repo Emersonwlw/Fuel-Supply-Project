@@ -1,0 +1,11 @@
+{
+    "env":{
+        "MYSQL_USER" :"root",
+        "MYSQL_PASSOWORD":"1234",
+        "MYSQL_DATABASE":"FuelSupply",
+        "MYSQL_HOST":"localhost",
+        "MYSQL_PORT": 3306,
+
+        "JWT_KEY": "qu1m3rr@"
+    }
+}
